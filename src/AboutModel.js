@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Aboutimage from '../src/assets/19.jpg'
 const AboutModel = () => {
   return (
     <section id="one" className="about-ai-model">
@@ -17,7 +17,8 @@ const AboutModel = () => {
         </div>
         <div className="about-image-container">
           <div className="about-image">
-            <lottie-player src="https://lottie.host/04d3eab4-7ade-4d03-afe4-388f5614c22f/UIPhrEhW31.json" background="transparent" speed="1" style={{width: '400px', height: '400px'}} loop autoplay></lottie-player>
+          <img src={Aboutimage} alt="AI Model Setup" />
+
           </div>
         </div>
       </div>
