@@ -6,6 +6,7 @@ import Hero from './Hero';
 import Projection from './Projection';
 import AboutModel from './AboutModel';
 import FAQ from './FAQ';
+import Contact from './Contact';
 import Footer from './Footer';
 
 function App() {
@@ -16,7 +17,9 @@ function App() {
       <Projection />
       <AboutModel />
       <FAQ />
+      <Contact/>
       <Footer />
+      
     </div>
   );
 }
