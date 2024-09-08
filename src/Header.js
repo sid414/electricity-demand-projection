@@ -10,11 +10,11 @@ const Header = () => {
           <img src={logo} alt="Logo" />
         </div>
         <ul className="nav-links">
-          <li><a href="#">Home</a></li>
-          <li><a href="#one">About</a></li>
-          <li><a href="#">Products</a></li>
-          <li><a href="#">Contact</a></li>
-          <li><a href="#two">FAQ</a></li>
+          <li><a href="/#">Home</a></li>
+          <li><a href="/#">About</a></li>
+          <li><a href="/#">Products</a></li>
+          <li><a href="/#">Contact</a></li>
+          <li><a href="/#">FAQ</a></li>
         </ul>
         <div className="admin-auth">
           <img src={adminAuth} alt="Admin Auth" />
