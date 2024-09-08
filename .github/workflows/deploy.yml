@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -18,11 +19,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-<<<<<<< HEAD
-          node-version: '14'
-=======
           node-version: '20'
->>>>>>> f54b2cffe34017ffd938937bea5527d90a74fa7a
 
       - name: Cache dependencies
         uses: actions/cache@v3
