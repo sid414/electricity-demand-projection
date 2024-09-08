@@ -22,6 +22,59 @@ const AboutModel = () => {
           </div>
         </div>
       </div>
+
+      <div className="about-content">
+        <div className="about-text">
+          <h3>Innovative Approach to Demand Projection</h3>
+          <p>Tailored for Delhi</p>
+          <ul>
+            <li>Model Development</li>
+            <li>Training and Validation</li>
+            <li>Deployment and Integration</li>
+            <li>Key Advantages</li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="about-content">
+        <div className="about-text">
+          <h3>Innovative Approach to Demand Projection</h3>
+          <p>Tailored for Delhi</p>
+          <ul>
+            <li>Model Development</li>
+            <li>Training and Validation</li>
+            <li>Deployment and Integration</li>
+            <li>Key Advantages</li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="about-content">
+        <div className="about-text">
+          <h3>Innovative Approach to Demand Projection</h3>
+          <p>Tailored for Delhi</p>
+          <ul>
+            <li>Model Development</li>
+            <li>Training and Validation</li>
+            <li>Deployment and Integration</li>
+            <li>Key Advantages</li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="about-content">
+        <div className="about-text">
+          <h3>Innovative Approach to Demand Projection</h3>
+          <p>Tailored for Delhi</p>
+          <ul>
+            <li>Model Development</li>
+            <li>Training and Validation</li>
+            <li>Deployment and Integration</li>
+            <li>Key Advantages</li>
+          </ul>
+        </div>
+      </div>
+
     </section>
   );
 };
