@@ -8,7 +8,7 @@ const Hero = () => {
         <h1>Electricity Demand Projection</h1>
         <p>The website aims to develop an Artificial Intelligence (AI) based model for electricity demand projection.</p>
         <br />
-        <a href="#" className="btn">Explore Now</a>
+        <a href="/#" className="btn">Explore Now</a>
       </div>
       <div className="hero-image">
         <img src={heroImage} alt="Powerlines" />
