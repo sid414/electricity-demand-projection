@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../src/assets/p1.png'; // Make sure your images are in the `assets` folder
+import logo from '../src/assets/logo.jpg'; // Make sure your images are in the `assets` folder
 import adminAuth from '../src/assets/p2.png';
 
 const Header = () => {
